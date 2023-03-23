@@ -1,8 +1,6 @@
 ### Olá, eu sou Ricardo 👋
 
 Desenvolvedor Web Fullstack Javascript, porém aberto para as novas tecnologias
-
-Atualmente busco oportunidades para desafiar as minhas habilidades e creacer como engenheiro de software
   
 ### Minha stack pessoal:
 
@@ -41,7 +39,7 @@ Atualmente busco oportunidades para desafiar as minhas habilidades e creacer com
   <a href="https://www.instagram.com/ricardo__adorno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <br/>
   <br/>
-  <a href="https://ricardo-website.vercel.app/">Meu Site</a>
+  <a target="_blank" href="https://ricardoadorno.github.io/ricardo-website/index.html">Meu Site</a>
   <br/>
   Alguns dos meus projetos:
   <br/>
