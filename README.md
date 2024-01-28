@@ -4,9 +4,14 @@ I'm a Web Fullstack Developer, interested in software architecture and design, c
   
 ### My current stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,express,figma,nestjs,react,redux,nextjs,postgres,prisma,vite,vitest,vue,tailwind	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,figma,nestjs,react,redux,nextjs,postgres,prisma,mongodb,vite,vitest,vue,tailwind,linux,docker)](https://skillicons.dev)
 
   </br>
+
+### Also experimenting
+
+[![My Skills](https://skillicons.dev/icons?i=elixir,java, spring)](https://skillicons.dev)
+
 
 <div align="center">
   <a href="https://github.com/ricardoadorno">
