@@ -10,7 +10,7 @@ I'm a Web Fullstack Developer, interested in software architecture and design, c
 
 ### Also experimenting
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,java, spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=elixir,java,spring)](https://skillicons.dev)
 
 
 <div align="center">
