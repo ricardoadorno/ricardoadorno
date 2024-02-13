@@ -14,9 +14,8 @@ I'm a Web Fullstack Developer, interested in software architecture and design, c
   </br>
 
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/ricardoadorno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardoadorno&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoadorno&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
