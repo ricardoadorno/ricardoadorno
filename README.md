@@ -6,14 +6,6 @@ I'm a Web Fullstack Developer, interested in software architecture and design, c
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,figma,nestjs,react,redux,nextjs,postgres,prisma,mongodb,vite,vitest,vue,tailwind,java,spring,linux,docker)](https://skillicons.dev)
 
-  </br>
-
-
-<div align="start">
-  <a href="https://github.com/ricardoadorno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoadorno&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
-
 <br/>
 
 <div> 
